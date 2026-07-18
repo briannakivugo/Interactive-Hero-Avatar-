@@ -1,7 +1,5 @@
-Hero Avatar Interactive
-Overview
 # Hero Avatar Interactive
-![Hero Avatar Demo](assets/hero-avatar-demo.gif)
+![Hero Avatar Demo](hero-avatar-demo.gif)
 
 Hero Avatar Interactive is a p5.js project that showcases a culturally inspired hero avatar with interactive facial animations. Users can click the canvas to toggle the character's eyes open and closed while viewing an inspirational quote from Nelson Mandela.
 
